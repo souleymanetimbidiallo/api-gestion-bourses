@@ -1,0 +1,35 @@
+[
+    {
+      "nom": "Relevé de notes",
+      "description": "Document officiel délivré par l'établissement scolaire",
+      "format": "pdf",
+      "chemin": "/documents/releve_notes.pdf",
+      "dateSoumission": "2022-03-15T00:00:00Z",
+      "etat": "validé"
+    },
+    {
+      "nom": "Certificat de scolarité",
+      "description": "Document justifiant que l'étudiant est inscrit dans un établissement scolaire",
+      "format": "pdf",
+      "chemin": "/documents/certificat_scolarite.pdf",
+      "dateSoumission": "2022-03-10T00:00:00Z",
+      "etat": "validé"
+    },
+    {
+      "nom": "Attestation de stage",
+      "description": "Document justifiant que l'étudiant a effectué un stage dans une entreprise",
+      "format": "pdf",
+      "chemin": "/documents/attestation_stage.pdf",
+      "dateSoumission": "2022-02-28T00:00:00Z",
+      "etat": "validé"
+    },
+    {
+      "nom": "Lettre de motivation",
+      "description": "Lettre rédigée par l'étudiant expliquant les raisons de sa candidature à une bourse d'étude",
+      "format": "pdf",
+      "chemin": "/documents/lettre_motivation.pdf",
+      "dateSoumission": "2022-03-01T00:00:00Z",
+      "etat": "validé"
+    }
+  ]
+  

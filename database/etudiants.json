@@ -1,0 +1,49 @@
+[
+    {
+      "nom": "Dupont",
+      "prenom": "Jean",
+      "INE": "123456",
+      "dateNaissance": "1995-02-15",
+      "lieuNaissance": "Paris",
+      "email": "jean.dupont@mail.com",
+      "motPasse": "motdepasse",
+      "telephone": "0601020304",
+      "niveau": "6416e6a9669e6a1bc01cd606",
+      "domaine": "6416e6a9669e6a1bc01cd5f3",
+      "documents": [
+        "6416e6a9669e6a1bc01cd608",
+        "6416e6a9669e6a1bc01cd609"
+      ],
+      "created": "2023-03-20T14:00:00.000Z"
+    },
+    {
+      "nom": "Martin",
+      "prenom": "Sophie",
+      "INE": "789012",
+      "dateNaissance": "1998-05-27",
+      "lieuNaissance": "Lyon",
+      "email": "sophie.martin@mail.com",
+      "motPasse": "motdepasse",
+      "telephone": "0602030405",
+      "niveau": "6416e6a9669e6a1bc01cd607",
+      "domaine": "6416e6a9669e6a1bc01cd5f4",
+      "documents":[
+        "6416e6a9669e6a1bc01cd60a"
+      ],
+      "created": "2023-03-21T10:30:00.000Z"
+    },
+    {
+      "nom": "Garcia",
+      "prenom": "Pierre",
+      "INE": "345678",
+      "dateNaissance": "1999-11-03",
+      "lieuNaissance": "Marseille",
+      "email": "pierre.garcia@mail.com",
+      "motPasse": "motdepasse",
+      "telephone": "0603040506",
+      "niveau": "6416e6a9669e6a1bc01cd605",
+      "domaine": "6416e6a9669e6a1bc01cd5f5",
+      "documents": [],
+      "created": "2023-03-22T08:45:00.000Z"
+    }
+  ]

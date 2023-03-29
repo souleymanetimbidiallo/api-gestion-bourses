@@ -1,0 +1,30 @@
+[
+  {
+    "nom": "Primaire",
+    "description": "Niveau d'enseignement primaire"
+  },
+  {
+    "nom": "CEP",
+    "description": "Certificat d'études primaires"
+  },
+  {
+    "nom": "BEPC",
+    "description": "Brevet d'études du premier cycle"
+  },
+  {
+    "nom": "Baccalauréat",
+    "description": "Niveau d'enseignement secondaire"
+  },
+  {
+    "nom": "Licence",
+    "description": "Niveau d'enseignement supérieur"
+  },
+  {
+    "nom": "Master",
+    "description": "Niveau d'enseignement supérieur"
+  },
+  {
+    "nom": "Doctorat",
+    "description": "Niveau d'enseignement supérieur"
+  }
+]

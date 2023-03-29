@@ -1,0 +1,32 @@
+[
+    {
+      "etudiant": "6416e8c02e1dc27e482953dd",
+      "bourse": "6416eacb8ff303c4e0bb3b75",
+      "dateDepot": "2022-03-19T10:00:00.000Z",
+      "etat": "en cours",
+      "resultat_selection": false,
+      "commentaire_selection": "",
+      "documents": [
+        "6416e6a9669e6a1bc01cd60b"
+      ]
+    },
+    {
+      "etudiant": "6416e8c02e1dc27e482953de",
+      "bourse": "6416eacb8ff303c4e0bb3b76",
+      "dateDepot": "2022-03-20T08:00:00.000Z",
+      "etat": "en attente",
+      "resultat_selection": false,
+      "commentaire_selection": "",
+      "documents": []
+    },
+    {
+      "etudiant": "6416e8c02e1dc27e482953dd",
+      "bourse": "6416eacb8ff303c4e0bb3b76",
+      "dateDepot": "2022-03-21T15:00:00.000Z",
+      "etat": "acceptée",
+      "resultat_selection": true,
+      "commentaire_selection": "Félicitations ! Vous avez été sélectionné pour cette bourse.",
+      "documents": []
+    }
+  ]
+  

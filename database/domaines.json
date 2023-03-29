@@ -1,0 +1,58 @@
+[
+    {
+        "nom": "Sciences de l'ingénieur",
+        "description": "Étude de la conception, la construction et la maintenance des systèmes et des machines."
+    },
+    {
+        "nom": "Sciences de la santé",
+        "description": "Étude des soins de santé, des maladies, des traitements et de la prévention."
+    },
+    {
+        "nom": "Sciences sociales",
+        "description": "Étude des comportements, des relations sociales et de la structure de la société."
+    },
+    {
+        "nom": "Sciences économiques et de gestion",
+        "description": "Étude de l'économie, des entreprises, de la finance, du marketing, de la gestion des ressources humaines, etc."
+    },
+    {
+        "nom": "Sciences juridiques et politiques",
+        "description": "Étude du droit, des institutions politiques et de la gouvernance."
+    },
+    {
+        "nom": "Sciences de l'environnement",
+        "description": "Étude des relations entre l'homme et son environnement naturel, ainsi que de la gestion des ressources naturelles."
+    },
+    {
+        "nom": "Sciences agronomiques",
+        "description": "Étude de la production agricole, de la gestion des sols et des ressources naturelles, et de la sécurité alimentaire."
+    },
+    {
+        "nom": "Sciences de l'éducation",
+        "description": "Étude de l'enseignement, de l'apprentissage et de l'éducation en général."
+    },
+    {
+        "nom": "Arts et lettres",
+        "description": "Étude des arts et de la littérature, y compris la littérature, les arts visuels, la musique, le théâtre, la danse, etc."
+    },
+    {
+        "nom": "Sciences exactes et appliquées",
+        "description": "Étude des mathématiques, de la physique, de la chimie et de l'informatique, ainsi que de leur application dans divers domaines."
+    },
+    {
+        "nom": "Sciences de la communication",
+        "description": "Étude de la communication, des médias et de l'information, ainsi que de leur influence sur la société."
+    },
+    {
+        "nom": "Sciences du sport",
+        "description": "Étude de la performance sportive, de la physiologie de l'exercice, de la psychologie du sport, etc."
+    },
+    {
+        "nom": "Sciences de la terre et de l'univers",
+        "description": "Étude de la géologie, de la météorologie, de l'astronomie, de l'astrophysique, etc."
+    },
+    {
+        "nom": "Sciences de la vie et de la nature",
+        "description": "Étude de la biologie, de l'écologie, de la zoologie, de la botanique, etc."
+    }
+]

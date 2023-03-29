@@ -1,0 +1,50 @@
+[
+    {
+        "nom": "Bourse d'études supérieures",
+        "description": "Bourse pour financer des études supérieures",
+        "montant": 5000,
+        "niveaux": [
+            "6416e6a9669e6a1bc01cd606",
+            "6416e6a9669e6a1bc01cd607"
+        ],
+        "domaines": [
+            "6416e6a9669e6a1bc01cd5f3",
+            "6416e6a9669e6a1bc01cd5f4",
+            "6416e6a9669e6a1bc01cd5f8"
+        ],
+        "dateLimite": "2022-05-31",
+        "paysDestination": "France",
+        "universiteDestination": "Université de Paris"
+    },
+    {
+        "nom": "Bourse d'études techniques",
+        "description": "Bourse pour financer des études techniques",
+        "montant": 3000,
+        "niveaux": [
+            "6416e6a9669e6a1bc01cd605",
+            "6416e6a9669e6a1bc01cd606"
+        ],
+        "domaines": [
+            "6416e6a9669e6a1bc01cd5f9"
+        ],
+        "dateLimite": "2022-06-30",
+        "paysDestination": "Canada",
+        "universiteDestination": "Université de Montréal"
+    },
+    {
+        "nom": "Bourse de recherche",
+        "description": "Bourse pour financer des recherches",
+        "montant": 8000,
+        "niveaux": [
+            "6416e6a9669e6a1bc01cd605",
+            "6416e6a9669e6a1bc01cd606"
+        ],
+        "domaines": [
+            "6416e6a9669e6a1bc01cd5fc",
+            "6416e6a9669e6a1bc01cd5ff"
+        ],
+        "dateLimite": "2022-07-31",
+        "paysDestination": "Etats-Unis",
+        "universiteDestination": "Université de Californie"
+    }
+]
